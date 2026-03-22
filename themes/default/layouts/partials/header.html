@@ -1,4 +1,15 @@
 <nav>
-  <a href="/" class="site-title">{{ site.Title }}</a>
-  <a href="/posts/" class="nav-link">posts</a>
+  <a href="{{ "/" | relURL }}" class="site-title">{{ site.Title }}</a>
+  {{- $nav := slice "posts" }}
+  {{- with site.Data.site_config.nav_order }}{{ $nav = . }}{{ end }}
+  {{- $sections := slice }}
+  {{- range site.Sections }}{{ $sections = $sections | append .Section }}{{ end }}
+  {{- range $nav }}
+    {{- $item := . }}
+    {{- if in $sections $item }}
+      <a href="{{ (print "/" $item "/") | relURL }}" class="nav-link">{{ $item }}</a>
+    {{- else }}
+      <a href="{{ (print "/pages/" $item "/") | relURL }}" class="nav-link">{{ $item }}</a>
+    {{- end }}
+  {{- end }}
 </nav>

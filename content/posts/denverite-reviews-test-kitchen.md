@@ -1,0 +1,60 @@
++++
+title = "Denverite Reviews Test Kitchen"
+date = 2017-02-20T21:42:06Z
+draft = false
+categories = ["press"]
+tags = ["road sign art", "road sign artist", "street sign art", "street sign artist", "street sign artwork", "streetasignart", "streetsignartist", "The Signtologist"]
+featured_image = "/uploads/2017/02/170208-TEST-KITCHEN-KEVINJBEATY-06.jpg"
+imported_from = "https://thesigntologist.com"
+last_modified = 2026-03-21T22:23:24.45264-06:00
++++
+
+<p>It’s a Wednesday night in February and the Black Box, a less-than-three-month-old venue, is all but packed with people here to see brand new, untested artists perform.</p>
+<p>The showcase they’re here to see, Test Kitchen, is also brand-new. It’s the second official night of the free, bi-monthly, Roux Black-produced event that falls somewhere between open mic and “American Idol.” But unlike an episode of “Idol” or typical Denver open mic, Test Kitchen features hip-hop artists.<br />
+First up is Flow Mane. Like everyone else who will take the stage tonight, he’s got two songs for the room and the panel of three hip-hop pros, which tonight include DJ 5280, Denver hip-hop veteran J. Carey and Ru Johnson, head of Roux Black.</p>
+<p>He doesn’t quite get the job done on a sleepy first go, but the second song easily gets the room nodding, and the panel is pleased. They’d buy his record.</p>
+<p>FOR YOU: Six Colorado car-camping weekends you can book now for this summer<br />
+Next up is a duo, ASM, who, despite a high-energy stage presence, don’t convince the judges they’re there yet. They start dropping lyrics, and the crowd erupts into ohhhhs and awwwws.</p>
+<p>As the night’s host, Mr. Midas, said in his introduction, “That’s what I love about Denver. If they don’t love you, they gonna boo, throw pennies.”<br />
+No pennies were thrown that night, but the panel pulled no punches. They let each rapper know what worked and what didn’t, and answered Test Kitchen’s ultimate question: If you’re down to your last dollar, do you buy a sandwich or this record?</p>
+<p>Among the rest of the talent that Wednesday night, which included Ave Grim, Lo-Pez, G-Slick, Daego Gold and Taurean, a lot of hypothetical last dollars were spent on records. Some of them were spent on sandwiches.</p>
+<p>When all is said and done, Roux Black releases a Test Kitchen Report to talent buyers, journalists and others in the industry — while also building a detailed catalogue of local talent.</p>
+<p>It’s that kind of business savvy that has helped Johnson and her company become tastemakers and powerhouses of Denver hip-hop. You’ll find the Roux Black stamp on concerts across the city, including their own Roux Black Presents: Black Summer, which sold out the Bluebird its first year. Johnson also reviews records for the Denver Post.</p>
+<p>“My goal is to elevate hip-hop culture in Denver,” Johnson said. “As a growing city, I feel that what makes this city so great — and I say this not as a native — is the true diversity of the people who live here and the way we take what exists and build it out to something big. … I don’t think that we get as much recognition for these artists who truly do it organically. So my goal for Test Kitchen is to put emerging artists in front of people who can make a difference.”<br />
+That’s not as simple as it sounds.</p>
+<p>As most anyone in Denver who cares about hip-hop will tell you, Denver has a hip-hop problem.</p>
+<p>Or as Johnson put it, “Denver has a micro-aggressive racism problem.”</p>
+<p>“Let’s just be clear … hip-hop shows and hip-hop clubs where people who like hip-hop tend to gather are often seen as less polished and less sellable. Because of that, Denver is a little behind the times. Any other city, hip-hop communities are seen as a viable form of expression.”</p>
+<p>Even the casual concert-goer can see what she’s talking about. Denverites can see big-name artists in large-capacity venues — Future at the Pepsi Center, Run the Jewels at the Fillmore Auditorium, Vince Staples at the Bluebird Theater, Earl Sweatshirt at Cervantes Masterpiece. It’s not very often, however, that we can spend just $10 to catch a lineup of relatively unknown talent inside a small club.</p>
+<p>You can do that with various strains of rock ‘n’ roll any night of the week.</p>
+<p>Take a look at the Hi-Dive calendar, for example: no hip-hop through the remainder of February or March. You’ll find similar schedules at other low-cost venues and music-hosting bars around the city. Of course, they all have the right to stay in their wheelhouse. And they do a good job showcasing Denver talent. But the numbers highlight a huge hole in the Denver music scene.</p>
+<p>Lost Lake and Larimer Lounge offer a little bit more — you can see rising star No Name next week at Lost Lake and a small handful of other worthy artists at both venues in the coming weeks. A couple hundred Denverites saw Anderson .Paak at the Larimer Lounge a couple years ago, before he made one of the best albums of 2016 and was nominated for a Grammy. Larimer is sold out for a March 1 performance from Tennessee rapper Isaiah Rashad. Sold out.</p>
+<p>“I’ve had multiple talent buyers say that they can’t book rap at their venues,” Johnson said. “But we see that the culture of hip-hop is all over the place.”<br />
+Jonathan Carey, who acted as a judge for Test Kitchen’s last round, was born and raised in Denver and has been making music here for eight years. He’s watched the scene grow and become better connected over that time as the population grew and social media became commonplace.</p>
+<p>“I would definitely say that there’s a stigma to that music in general, but in Denver for sure,” he said. “I feel that some artists have been able to adapt. The classic example I would use is Top Flite Empire. When you hear of a Top Flite show, you expect a certain sound, you understand what they’re going after. It’s very marketable, you know what I’m saying? They’ve been around for a while, they’ve molded their sound.</p>
+<p>“When it comes to an up-and-coming kid and he’s a street rapper — if you come from that circle or it’s the type of music you listen to, obviously you’re going to be a fan of it. But how many festivals could you book that at, especially if you’re not a well known artist? Depending on the sound you have, it may limit you. I feel the same could be said anywhere, but as far as in Denver, there’s still more growing to do. I don’t think (the scene) is as big as it should be.”</p>
+<p>The stigma Johnson and Carey both talk about was in the spotlight just a few months ago, when Tyrone Adair Jr. — aka rapper Boss Goodie — was shot and killed outside Cold Crush. The hip-hop bar was quickly shut down when its liquor and cabaret license was subsequently suspended on the grounds of a “precarious pattern of conduct,” though it was able to reopen with a strict new set of rules.</p>
+<p>When we looked at the crime reports for Cold Crush and a handful of other popular bars and venues in the area, we found that Cold Crush didn’t have an unusual number of violent crimes compared to other bars, but it nonetheless seemed to attract more police attention.</p>
+<p>And with police attention comes media attention.</p>
+<p>“It’s hard to get the media in Denver to cover hip-hop unless somebody got shot, because that’s a story line that is comfortably attached to this community,” Johnson said. “But people of all varieties act up downtown.”</p>
+<p>It’s not hard to back that up. A 10-year-old boy was shot when an argument between two men escalated to a shooting at 18th and Larimer on the first day of 2017. In the summer of 2016, multiple shooters fired dozens of rounds in a shootout outside Beta that killed one man and injured another.<br />
+Wait, so, what does this have to do with Test Kitchen?</p>
+<p>“It relates to Test Kitchen because a lot of these artists that are emerging, they’re not going to be as polished as Trev Rich (recently signed to Cash Money), but they have talent and it’s important to put it somewhere,” Johnson said. “There isn’t another place in the city to do this.”</p>
+<p>And if you think of Test Kitchen as a hip-hop open mic, that’s very true. A musician with a guitar has dozens of options when he’s ready to get on stage for the first time or try out new material. Rappers, producers and DJs don’t.</p>
+<p>As Carey points out, the best way for a budding hip-hop artist to get noticed is to open for a big-name act. It’s the best way to make connections and get seen by the right people, and connections, he says, are everything.</p>
+<p>“That’s basically how I started making my way around town. I would do shows, someone in the audience would hit me up, and that’s how collaborations would come about,” he said. “Test Kitchen, I feel, is a step past that, where it’s a little more on the underground. Sure, some of the artists that come to the stage might have a little buzz, but when you come to the Test Kitchen, you don’t know who will be there. … After the show, everyone is right there.”</p>
+<p>And even if you put aside getting noticed, the time on stage is still invaluable to a young artist. If they’re not on stage, the only way to hone their style is by spending time in the studio or rapping for their friends, Carey said.</p>
+<p>“Last week there was a guy who said he’d only been rapping a year and a half,” he added. “It’s good for him to get that experience and know, ‘Here’s where I’m at now with my sound.’ I talked to him for a little bit afterward and he was like, ‘Man, this is the best thing that’s happened. I never imagined it could be this helpful.’ ”<br />
+The Black Box has been key in the creation of Test Kitchen.</p>
+<p>The venue opened up at 314 E. 13th Ave. in November after Quixote’s True Blue called it quits after 20 years. The new venue is run by Nicole Cacciavillano, founder of EDM promotion company Sub.mission.</p>
+<p>Cacciavillano has been promoting dubstep and other EDM since before it was popular. What started as a hobby became her full-time job in 2010, and over the years she realized that the big rooms and festivals she worked with were not the reason she got into the business.</p>
+<p>“I wanted a more organic space where underground music could fly and for people doing it for the music but not the money,” she said.</p>
+<p>She was at home back east, taking care of her now-late mother who was sick with cancer, when she heard that owner Jay Bianchi was done with Quixote’s. She got in touch, and the space was soon hers. It was exactly what she needed to create something more organic and underground, and she immediately got busy doing just that.</p>
+<p>“One of the main things at the Black Box is the lounge kind of being a free space or cheap space, and we wanted to incorporate locals,” she said. “There’s a lot of hardworking people, Ru being one of them, that we really wanted to showcase [in a way] that allowed them to present what they have to offer to the world.”</p>
+<p>Cacciavillano reached out to Johnson about hosting a regular hip-hop showcase of some kind, and Test Kitchen was born.<br />
+Just a few shows in, it’s going very well.</p>
+<p>Roux Black has no shortage of submissions from artists looking for their shot on stage and, as was clear at the last showcase, there is no shortage of people who want to hear them.</p>
+<p>Johnson said she plans to keep Test Kitchen going at least throughout the spring.</p>
+<p>“We just wanna play jams,” she said. “I just wanna throw rap shows with my friends. I’m just so proud and excited for all of these artists who are choosing to be seen and present in this crazy world in front of people who just want to hear the beats and the rhymes.”<br />
+Test Kitchen happens at the Black Box, 314 E. 13th Ave., every other Wednesday. There’s no cover if you’re 21 or older and a $5 cover if you’re 18-20. Doors open at 9 p.m.</p>
+<p style="text-align: center;">See more photos from the show <a href="https://www.denverite.com/test-kitchen-denver-hip-hop-29817/">here</a></p>

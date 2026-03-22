@@ -26,10 +26,11 @@
 
     {{ with .Content }}
       <div class="product-body">{{ . }}</div>
-    {{ end }}
-
-    {{ with .Params.description }}
-      <p class="product-description">{{ . }}</p>
+    {{ else }}
+      {{/* fallback: description frontmatter may contain HTML from import */}}
+      {{ with .Params.description }}
+        <div class="product-body">{{ . | safeHTML }}</div>
+      {{ end }}
     {{ end }}
 
     {{ with .Params.tags }}
