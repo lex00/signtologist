@@ -1,0 +1,13 @@
+baseURL = 'https://lex00.github.io/signtologist/'
+languageCode = 'en-us'
+title = 'The Signtologist'
+theme = 'default'
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

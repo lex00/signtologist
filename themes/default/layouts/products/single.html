@@ -1,0 +1,55 @@
+{{ define "main" }}
+  <article class="product-single">
+    <div class="product-header">
+      <h1>
+        {{ .Title }}
+        {{ if not .Params.available }}
+          <span class="badge sold-out-badge">Sold Out</span>
+        {{ end }}
+        {{ if .Params.featured }}
+          <span class="badge featured-badge">Featured</span>
+        {{ end }}
+      </h1>
+      {{ with .Params.price_display }}
+        <p class="product-price-large">{{ . }}</p>
+      {{ end }}
+    </div>
+
+    {{ $images := .Resources.Match "*.{jpg,jpeg,png,webp,avif}" }}
+    {{ if $images }}
+      <div class="product-gallery">
+        {{ range $images }}
+          <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" class="product-gallery-img" loading="lazy">
+        {{ end }}
+      </div>
+    {{ end }}
+
+    {{ with .Content }}
+      <div class="product-body">{{ . }}</div>
+    {{ end }}
+
+    {{ with .Params.description }}
+      <p class="product-description">{{ . }}</p>
+    {{ end }}
+
+    {{ with .Params.tags }}
+      <div class="product-tags">
+        {{ range . }}
+          <span class="badge tag-badge">{{ . }}</span>
+        {{ end }}
+      </div>
+    {{ end }}
+
+    <div class="product-actions">
+      {{ if .Params.available }}
+        {{ with .Params.buy_url }}
+          <a href="{{ . }}" class="btn-buy" target="_blank" rel="noopener">Buy Now →</a>
+        {{ end }}
+      {{ else }}
+        <span class="btn-buy btn-sold-out">Sold Out</span>
+      {{ end }}
+    </div>
+
+    {{ with .Params.weight }}{{ end }}{{/* suppress unused warning */}}
+  </article>
+{{ end }}

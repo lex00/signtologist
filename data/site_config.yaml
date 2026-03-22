@@ -1,0 +1,4 @@
+site_name: "The Signtologist"
+accent_color: "#ff6b35"
+nav_order: [products, artwork, posts, about, contact]
+footer_text: "© 2026 Dan Ericson / Dunn The Street Sign Artist"
