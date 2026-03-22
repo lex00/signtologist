@@ -4,6 +4,8 @@ date = 2017-01-23T16:26:04Z
 draft = false
 available = false
 sold = true
+featured_image = "/uploads/2017/01/IMG_8940.jpg"
+gallery = ["/uploads/2026/02/cropped-Untitled-18-1.jpg", "/uploads/2017/01/IMG_8940.jpg", "/uploads/2017/01/IMG_8950-500x383.jpg", "/uploads/2017/01/IMG_8948-500x383.jpg", "/uploads/2017/01/IMG_8946-500x383.jpg", "/uploads/2017/01/IMG_8939-500x383.jpg", "/uploads/2017/01/IMG_8937-500x383.jpg"]
 imported_from = "https://thesigntologist.com"
-last_modified = 2026-03-21T22:36:15.190641-06:00
+last_modified = 2026-03-21T23:01:18.977255-06:00
 +++

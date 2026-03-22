@@ -1,14 +1,15 @@
 +++
 title = "Denver Remix"
-date = 2026-03-21T22:33:48.601958-06:00
+date = 2026-03-21T23:02:17.507346-06:00
 draft = false
 price_display = "$30.00"
 buy_url = "https://thesigntologist.com/product/denver-remix/"
 category = "clothing"
 available = true
 featured = false
+featured_image = "/uploads/2026/02/unisex-classic-tee-navy-front-699de90e463ae.jpg"
 imported_from = "https://thesigntologist.com"
-last_modified = 2026-03-21T22:33:48.601958-06:00
+last_modified = 2026-03-21T23:02:17.507346-06:00
 +++
 
 <p>Denver Remix &#8211; a reinterpretation reflecting tension between civic identity and the realities visible on its streets. </p>

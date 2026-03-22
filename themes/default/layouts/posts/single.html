@@ -12,14 +12,12 @@
     {{ end }}
 
     {{ with .Params.featured_image }}
-      {{ $img := $.Resources.GetMatch . }}
-      {{ if $img }}
-        <img src="{{ $img.RelPermalink }}" alt="{{ $.Title }}" class="post-featured-img" loading="lazy">
-      {{ end }}
+      <img src="{{ print site.Home.RelPermalink (. | strings.TrimPrefix "/") }}" alt="{{ $.Title }}" class="post-featured-img" loading="lazy">
     {{ end }}
 
     <div class="post-content">
-      {{ .Content }}
+      {{ $base := site.Home.RelPermalink }}
+      {{ replaceRE `="/uploads/` (printf `="%suploads/` $base) .Content | safeHTML }}
     </div>
 
     {{ with .Params.tags }}

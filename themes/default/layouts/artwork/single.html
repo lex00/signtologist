@@ -14,11 +14,17 @@
       {{ end }}
     </div>
 
-    {{ $images := .Resources.Match "*.{jpg,jpeg,png,webp,avif}" }}
-    {{ if $images }}
+    {{ $gallery := .Params.gallery }}
+    {{ $featured := .Params.featured_image }}
+    {{ if or $gallery $featured }}
       <div class="artwork-gallery">
-        {{ range $images }}
-          <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" class="artwork-gallery-img" loading="lazy">
+        {{ with $featured }}
+          <img src="{{ print site.Home.RelPermalink (. | strings.TrimPrefix "/") }}" alt="{{ $.Title }}" class="artwork-gallery-img" loading="lazy">
+        {{ end }}
+        {{ range $gallery }}
+          {{ if ne . $.Params.featured_image }}
+            <img src="{{ print site.Home.RelPermalink (. | strings.TrimPrefix "/") }}" alt="{{ $.Title }}" class="artwork-gallery-img" loading="lazy">
+          {{ end }}
         {{ end }}
       </div>
     {{ end }}

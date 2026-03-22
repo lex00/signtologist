@@ -15,12 +15,9 @@
       {{ end }}
     </div>
 
-    {{ $images := .Resources.Match "*.{jpg,jpeg,png,webp,avif}" }}
-    {{ if $images }}
+    {{ with .Params.featured_image }}
       <div class="product-gallery">
-        {{ range $images }}
-          <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" class="product-gallery-img" loading="lazy">
-        {{ end }}
+        <img src="{{ print site.Home.RelPermalink (. | strings.TrimPrefix "/") }}" alt="{{ $.Title }}" class="product-gallery-img" loading="lazy">
       </div>
     {{ end }}
 
