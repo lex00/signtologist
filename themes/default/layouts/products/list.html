@@ -7,7 +7,7 @@
     <nav class="category-nav">
       <span class="category-nav-label">Browse: </span>
       {{ range $name, $pages := $categories }}
-        <a href="{{ "/categories/" | relURL }}{{ $name | urlize }}/" class="category-link">{{ $name | title }}</a>
+        <a href="{{ site.Home.RelPermalink }}categories/{{ $name | urlize }}/" class="category-link">{{ $name | title }}</a>
       {{ end }}
     </nav>
   {{ end }}

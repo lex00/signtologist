@@ -6,7 +6,7 @@ title: "The Signtologist"
 
 Dan Ericson — sign artist, muralist, and cultural archaeologist of the American roadway. 
 
-**[Shop →](/products/)**
+**[Shop →]({{< ref "/products" >}})**
 
 ---
 

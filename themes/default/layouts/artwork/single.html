@@ -38,7 +38,7 @@
         <dt>Category</dt>
         <dd>
           {{ range . }}
-            <a href="{{ "/categories/" | relURL }}{{ . | urlize }}/" class="category-link">{{ . }}</a>
+            <a href="{{ site.Home.RelPermalink }}categories/{{ . | urlize }}/" class="category-link">{{ . }}</a>
           {{ end }}
         </dd>
       {{ end }}

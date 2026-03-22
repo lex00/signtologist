@@ -1,5 +1,5 @@
 <nav>
-  <a href="{{ "/" | relURL }}" class="site-title">{{ site.Title }}</a>
+  <a href="{{ site.Home.RelPermalink }}" class="site-title">{{ site.Title }}</a>
   {{- $nav := slice "posts" }}
   {{- with site.Data.site_config.nav_order }}{{ $nav = . }}{{ end }}
   {{- $sections := slice }}
@@ -7,9 +7,13 @@
   {{- range $nav }}
     {{- $item := . }}
     {{- if in $sections $item }}
-      <a href="{{ (print "/" $item "/") | relURL }}" class="nav-link">{{ $item }}</a>
+      {{- with site.GetPage (print "/" $item) }}
+        <a href="{{ .RelPermalink }}" class="nav-link">{{ $item }}</a>
+      {{- end }}
     {{- else }}
-      <a href="{{ (print "/pages/" $item "/") | relURL }}" class="nav-link">{{ $item }}</a>
+      {{- with site.GetPage (print "/pages/" $item) }}
+        <a href="{{ .RelPermalink }}" class="nav-link">{{ $item }}</a>
+      {{- end }}
     {{- end }}
   {{- end }}
 </nav>
