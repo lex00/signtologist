@@ -7,9 +7,8 @@
       {{ if not .Params.draft }}
         <li>
           <a href="{{ .RelPermalink }}" class="project-card artwork-card">
-            {{ $images := .Resources.Match "*.{jpg,jpeg,png,webp,avif}" }}
-            {{ with index $images 0 }}
-              <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" class="artwork-thumb" loading="lazy">
+            {{ with .Params.featured_image }}
+              <img src="{{ print site.Home.RelPermalink (. | strings.TrimPrefix "/") }}" alt="{{ $.Title }}" class="artwork-thumb" loading="lazy">
             {{ end }}
             <span class="project-title">
               {{ .Title }}
